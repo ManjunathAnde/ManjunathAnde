@@ -1,15 +1,8 @@
 <h1 align="center">Hi there, I'm Manjunath Ande 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9BF0&center=true&vCenter=true&width=650&lines=Backend+%26+Cloud+Engineer;Building+Health-Tech+Systems+That+Ship;AWS+%7C+Applied+AI+%7C+Serverless" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1800&color=2E9BF0&center=true&vCenter=true&width=700&lines=AWS+Certified+Cloud+Practitioner;Building+Cloud+%26+Backend+Systems;Building+Healthcare+Technology" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <strong>AWS Certified Cloud Practitioner</strong><br/>
-  <strong>Cloud &amp; Backend Systems</strong><br/>
-  <strong>Building Healthcare Technology</strong>
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/manjunath-ande/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:manjunathande7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
