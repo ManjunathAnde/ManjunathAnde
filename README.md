@@ -12,8 +12,7 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
-</p>
----
+
 
 ### 🧠 About Me
 
