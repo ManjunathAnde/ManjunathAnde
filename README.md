@@ -3,10 +3,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1800&color=2E9BF0&center=true&vCenter=true&width=700&lines=AWS+Certified+Cloud+Practitioner;Building+Cloud+%26+Backend+Systems;Building+Healthcare+Technology" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/manjunath-ande/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:manjunathande7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://manjunathportfolio-hazel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://medium.com/@manjunathande7">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 </p>
 ---
 
