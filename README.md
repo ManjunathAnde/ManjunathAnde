@@ -5,11 +5,16 @@
 </p>
 
 <p align="center">
+  <strong>AWS Certified Cloud Practitioner</strong><br/>
+  <strong>Cloud &amp; Backend Systems</strong><br/>
+  <strong>Building Healthcare Technology</strong>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/manjunath-ande/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:manjunathande7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://manjunathportfolio-hazel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
-
 ---
 
 ### 🧠 About Me
