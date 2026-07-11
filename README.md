@@ -22,7 +22,7 @@ My interest lies in understanding how modern systems are built end-to-end, from 
 - 🌱 Currently exploring distributed systems and AI agent architectures
 - 📍 Based in Atlanta, GA
 
-- Excitedly looking forward to internships in Software Engineering, Backend Engineering, Cloud Engineering, or Applied AI/ML internship opportunities where I can contribute to scalable systems and solve real-world problems.
+**Excitedly looking forward to internships in Software Engineering, Backend Engineering, Cloud Engineering, or Applied AI/ML internship opportunities where I can contribute to scalable systems and solve real-world problems.**
 
 ---
 
