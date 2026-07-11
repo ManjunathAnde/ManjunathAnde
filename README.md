@@ -5,26 +5,24 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/manjunath-ande/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:manjunathande7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO-URL.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://manjunathportfolio-hazel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
-
-<!-- Fill in your LinkedIn handle and portfolio URL above -->
 
 ---
 
 ### 🧠 About Me
 
-I'm a Computer Science student in the Honors College at Georgia State University, focused on building cloud-native systems and applied AI, with a specific pull toward health-tech. I like understanding how things work end to end — training a model, wiring up the backend, deploying it on real infrastructure, and watching it hold up under real use.
-
-That last part matters to me. **CareScript**, one of my projects below, isn't a demo — it's deployed and coordinating real prescriptions at a live pharmacy. I got into this space because I used to work pharmacy billing and watched firsthand how much of healthcare logistics runs on broken, manual processes. I build software to fix that.
+I’m a CS student in Honors College at Georgia State University building software at the intersection of healthcare, cloud infrastructure, and AI.
+My interest lies in understanding how modern systems are built end-to-end, from training ML models and designing applications to deploying reliable infrastructure on the cloud. I enjoy working beyond the interface: designing APIs and  architecting cloud workflows. 
 
 - 🎓 CS Sophomore, Honors College @ Georgia State University
 - 🏥 Focused on cloud-native and AI-driven systems for healthcare
-- 🌱 Currently exploring system design, distributed systems, and AI agent architectures
+- 🌱 Currently exploring distributed systems and AI agent architectures
 - 📍 Based in Atlanta, GA
-- ⚡ Fun fact: I've taken real pharmacy workflows I saw break down in person and rebuilt them as software — prescription coordination, medication safety checks, the stuff patients never see but definitely feel
+
+- Excitedly looking forward to internships in Software Engineering, Backend Engineering, Cloud Engineering, or Applied AI/ML internship opportunities where I can contribute to scalable systems and solve real-world problems.
 
 ---
 
@@ -71,7 +69,7 @@ That last part matters to me. **CareScript**, one of my projects below, isn't a 
 ![SageMaker](https://img.shields.io/badge/SageMaker-01A88D?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 
 ---
 
@@ -83,7 +81,7 @@ That last part matters to me. **CareScript**, one of my projects below, isn't a 
 
 **🩺 [MedTrace](https://github.com/ManjunathAnde/MedTrace)**
 
-Evidence-grounded medication intelligence platform. Instead of trusting an LLM's raw answer on drug safety, it pulls live FDA and clinical evidence (RxNorm, DailyMed) and grounds the response in that data.
+Evidence-grounded medication intelligence platform. Instead of trusting an LLM's raw answer on drug safety, it pulls live FDA and clinical evidence (RxNorm, DailyMed) and grounds the response in that data with Gemini-Groq adaptive routing.
 
 `FastAPI` `React` `TypeScript` `Redis` `Gemini` `Groq`
 
@@ -94,7 +92,7 @@ Evidence-grounded medication intelligence platform. Instead of trusting an LLM's
 
 **💊 [CareScript](https://github.com/ManjunathAnde/CareScript)**
 
-Serverless prescription coordination platform, live in production at a real pharmacy handling real patient data. Fully serverless architecture on AWS.
+A serverless prescription coordination platform that digitizes clinical workflows using AWS Lambda, DynamoDB, and API Gateway. Tested in a live pharmacy with 25 patients.
 
 `React` `Node.js` `AWS Lambda` `DynamoDB` `API Gateway`
 
@@ -107,7 +105,7 @@ Serverless prescription coordination platform, live in production at a real phar
 
 **❤️ [Ensemble](https://github.com/ManjunathAnde/cardio-api)**
 
-Full-stack cardiovascular disease risk prediction platform. XGBoost model deployed on SageMaker, with SHAP-based explainability so predictions aren't a black box — clinicians can see which factors drove the risk score.
+A full-stack cardiovascular disease prediction platform using XGBoost with explainable SHAP analysis for real-time risk assessment.
 
 `React` `FastAPI` `XGBoost` `SHAP` `SageMaker` `S3`
 
@@ -116,15 +114,6 @@ Full-stack cardiovascular disease risk prediction platform. XGBoost model deploy
 </td>
 </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ManjunathAnde&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManjunathAnde&layout=compact&hide_border=true" />
-</p>
 
 ---
 
@@ -137,8 +126,9 @@ Full-stack cardiovascular disease risk prediction platform. XGBoost model deploy
 
 ### 📚 Currently Exploring
 
+- AWS AI Practitioner Certification
 - System Design & Distributed Systems
-- AWS Cloud Architecture (working toward Solutions Architect)
+- AWS Cloud Architecture 
 - AI Agent Systems & LLM Engineering
 
 ---
@@ -151,8 +141,5 @@ Open-source contributions · Healthcare technology · Cloud-native applications 
 
 <p align="center">
   <a href="mailto:manjunathande7@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">💼 LinkedIn</a> •
-  <a href="https://YOUR-PORTFOLIO-URL.com">🌐 Portfolio</a>
-</p>
-
-<p align="center"><i>Let's talk if you're working on anything at the intersection of cloud, AI, and healthcare.</i></p>
+  <a href="https://www.linkedin.com/in/manjunath-ande/">💼 LinkedIn</a> •
+  <a href="https://manjunathportfolio-hazel.vercel.app/">🌐 Portfolio</a>
