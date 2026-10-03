@@ -123,7 +123,7 @@ A full-stack cardiovascular disease prediction platform using XGBoost with expla
 
 - ☁️ AWS Certified Cloud Practitioner (CLF-C02)
 - ☁️ AWS Certified AI Practitioner (AIF-C01)
-- 🎓 2x Presidential List — Honors College, Georgia State University (GPA: 4.25/4.30)
+- 🎓 2x Presidential List — Honors College, Georgia State University (GPA: 4.23/4.30)
 
 ---
 
