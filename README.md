@@ -128,7 +128,7 @@ A full-stack cardiovascular disease prediction platform using XGBoost with expla
 - AWS Cloud Architecture 
 - AI Agent Systems & LLM Engineering
 - PowerBI
-- SQL
+- Academic Research
 
 ---
 
