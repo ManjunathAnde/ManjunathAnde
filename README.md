@@ -20,7 +20,7 @@ I’m a CS student in Honors College at Georgia State University building softwa
 My interest lies in understanding how modern systems are built end-to-end, from training ML models and designing applications to deploying reliable infrastructure on the cloud. I enjoy working beyond the interface: designing APIs and  architecting cloud workflows. 
 
 - 🎓 CS Sophomore, Honors College @ Georgia State University
-- 🏥 Focused on cloud-native and AI-driven systems for healthcare
+- 🏥 Focused on cloud-native and AI-driven systems.
 - 🌱 Currently exploring distributed systems and AI agent architectures
 - 📍 Based in Atlanta, GA
 
