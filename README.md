@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Manjunath Ande 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1800&color=2E9BF0&center=true&vCenter=true&width=650&lines=AWS+Certified+Cloud+Practitioner;Cloud+%26+Backend+Systems;AWS+Certified+AI+Practitioner;AI+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1800&color=2E9BF0&center=true&vCenter=true&width=650&lines=AWS+Certified+Cloud+Practitioner;Cloud+%26+Backend+Systems;AWS+Certified+AI+Practitioner;Agentic+AI+Architecture" alt="Typing SVG" />
 </p>
 
 <p align="center">
