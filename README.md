@@ -78,7 +78,7 @@ My interest lies in understanding how modern systems are built end-to-end, from 
 
 **🩺 [MedTrace](https://github.com/ManjunathAnde/MedTrace)**
 
-Evidence-grounded medication intelligence platform. Instead of trusting an LLM's raw answer on drug safety, it pulls live FDA and clinical evidence (RxNorm, DailyMed) and grounds the response in that data with Gemini-Groq adaptive routing.
+Medication AI for pharmacists where every claim is checked in code against the exact FDA passage it cites. Unsupported claims are removed and shown as removed. Specialized agents (synthesizer, interaction agent, citation verifier) on RxNorm, DailyMed, and openFDA, with Gemini/Groq failover.
 
 `FastAPI` `React` `TypeScript` `Redis` `Gemini` `Groq`
 
